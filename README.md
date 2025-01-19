@@ -1,4 +1,8 @@
-class Gaurav Hote:
+About Me
+--------
+
+ class Gaurav Hote:
+
     def __init__(self):
         self.role = "Aspiring Software Developer with a Passion for AI and Data Science"
         Self.code = ["Java”, “Python”, “C”, "HTML", 'CSS", "Javascript"]
